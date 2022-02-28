@@ -1,4 +1,4 @@
-# Disney-server
+# Cronometro-server
 
 Aplicativo que almacena el tiempo inicial y final del marcador en el cronometro. En caso de haber pausado el cronometro varias veces estas marcas se almacenan en la tabla "mark" y se muestran al dar clic en "ver más" en el Front del aplicativo
 
